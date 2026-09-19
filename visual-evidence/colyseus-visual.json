@@ -1,0 +1,62 @@
+[
+  {
+    "width": 1280,
+    "phase": "before",
+    "cardText": "MEMORY\n20.77 GB",
+    "apiMemory": {
+      "totalMemMb": 32560.578125,
+      "usedMemMb": 21268.9140625,
+      "rssMb": 77.91796875
+    },
+    "processProof": {
+      "rssMb": 77.91796875,
+      "pid": 26044
+    },
+    "bodyOverflow": false
+  },
+  {
+    "width": 1280,
+    "phase": "after",
+    "cardText": "PROCESS RSS\n80 MB",
+    "apiMemory": {
+      "totalMemMb": 32560.578125,
+      "usedMemMb": 21268.9140625,
+      "rssMb": 79.8984375
+    },
+    "processProof": {
+      "rssMb": 79.8984375,
+      "pid": 26044
+    },
+    "bodyOverflow": false
+  },
+  {
+    "width": 390,
+    "phase": "before",
+    "cardText": "MEMORY\n20.77 GB",
+    "apiMemory": {
+      "totalMemMb": 32560.578125,
+      "usedMemMb": 21268.9140625,
+      "rssMb": 78.4921875
+    },
+    "processProof": {
+      "rssMb": 78.4921875,
+      "pid": 26044
+    },
+    "bodyOverflow": true
+  },
+  {
+    "width": 390,
+    "phase": "after",
+    "cardText": "PROCESS RSS\n78 MB",
+    "apiMemory": {
+      "totalMemMb": 32560.578125,
+      "usedMemMb": 21338.33984375,
+      "rssMb": 77.97265625
+    },
+    "processProof": {
+      "rssMb": 77.97265625,
+      "pid": 26044
+    },
+    "bodyOverflow": true
+  }
+]
