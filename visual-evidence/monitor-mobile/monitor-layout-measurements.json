@@ -1,0 +1,791 @@
+[
+  {
+    "cards": [
+      {
+        "right": 125.265625,
+        "text": "0",
+        "x": 37,
+        "y": 138.890625
+      },
+      {
+        "right": 224.078125,
+        "text": "1",
+        "x": 179.265625,
+        "y": 138.890625
+      },
+      {
+        "right": 324.265625,
+        "text": "7.7%",
+        "x": 278.078125,
+        "y": 138.890625
+      },
+      {
+        "right": 431.46875,
+        "text": "15.82 GB",
+        "x": 378.265625,
+        "y": 138.890625
+      }
+    ],
+    "phase": "before-list",
+    "scrollWidth": 452,
+    "width": 320
+  },
+  {
+    "cards": [
+      {
+        "right": 125.265625,
+        "text": "0",
+        "x": 37,
+        "y": 138.890625
+      },
+      {
+        "right": 224.078125,
+        "text": "1",
+        "x": 179.265625,
+        "y": 138.890625
+      },
+      {
+        "right": 324.265625,
+        "text": "7.7%",
+        "x": 278.078125,
+        "y": 138.890625
+      },
+      {
+        "right": 431.46875,
+        "text": "15.82 GB",
+        "x": 378.265625,
+        "y": 138.890625
+      }
+    ],
+    "phase": "before-list",
+    "scrollWidth": 452,
+    "width": 390
+  },
+  {
+    "cards": [
+      {
+        "right": 133.265625,
+        "text": "0",
+        "x": 45,
+        "y": 138.890625
+      },
+      {
+        "right": 273.84375,
+        "text": "1",
+        "x": 187.265625,
+        "y": 114.890625
+      },
+      {
+        "right": 414.421875,
+        "text": "7.7%",
+        "x": 327.84375,
+        "y": 114.890625
+      },
+      {
+        "right": 555,
+        "text": "15.82 GB",
+        "x": 468.421875,
+        "y": 114.890625
+      }
+    ],
+    "phase": "before-list",
+    "scrollWidth": 600,
+    "width": 600
+  },
+  {
+    "cards": [
+      {
+        "right": 322,
+        "text": "0",
+        "x": 85,
+        "y": 114.890625
+      },
+      {
+        "right": 613,
+        "text": "1",
+        "x": 376,
+        "y": 114.890625
+      },
+      {
+        "right": 904,
+        "text": "7.7%",
+        "x": 667,
+        "y": 114.890625
+      },
+      {
+        "right": 1195,
+        "text": "15.82 GB",
+        "x": 958,
+        "y": 114.890625
+      }
+    ],
+    "phase": "before-list",
+    "scrollWidth": 1280,
+    "width": 1280
+  },
+  {
+    "cards": [
+      {
+        "right": 135.46875,
+        "text": "Room DGIjPPufZ",
+        "x": 55,
+        "y": 49
+      },
+      {
+        "right": 128.234375,
+        "text": "Unlocked",
+        "x": 37,
+        "y": 169
+      },
+      {
+        "right": 233.046875,
+        "text": "0 / 4",
+        "x": 182.234375,
+        "y": 193
+      },
+      {
+        "right": 323.984375,
+        "text": "3 B",
+        "x": 287.046875,
+        "y": 217
+      }
+    ],
+    "phase": "before-inspect",
+    "scrollWidth": 376,
+    "width": 320
+  },
+  {
+    "cards": [
+      {
+        "right": 135.46875,
+        "text": "Room DGIjPPufZ",
+        "x": 55,
+        "y": 49
+      },
+      {
+        "right": 128.234375,
+        "text": "Unlocked",
+        "x": 37,
+        "y": 169
+      },
+      {
+        "right": 240.609375,
+        "text": "0 / 4",
+        "x": 182.234375,
+        "y": 193
+      },
+      {
+        "right": 353,
+        "text": "3 B",
+        "x": 294.609375,
+        "y": 193
+      }
+    ],
+    "phase": "before-inspect",
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "cards": [
+      {
+        "right": 335.34375,
+        "text": "Room DGIjPPufZ",
+        "x": 63,
+        "y": 59
+      },
+      {
+        "right": 179,
+        "text": "Unlocked",
+        "x": 45,
+        "y": 161
+      },
+      {
+        "right": 367,
+        "text": "0 / 4",
+        "x": 233,
+        "y": 161
+      },
+      {
+        "right": 555,
+        "text": "3 B",
+        "x": 421,
+        "y": 161
+      }
+    ],
+    "phase": "before-inspect",
+    "scrollWidth": 600,
+    "width": 600
+  },
+  {
+    "cards": [
+      {
+        "right": 1015.34375,
+        "text": "Room DGIjPPufZ",
+        "x": 63,
+        "y": 59
+      },
+      {
+        "right": 419,
+        "text": "Unlocked",
+        "x": 85,
+        "y": 161
+      },
+      {
+        "right": 807,
+        "text": "0 / 4",
+        "x": 473,
+        "y": 161
+      },
+      {
+        "right": 1195,
+        "text": "3 B",
+        "x": 861,
+        "y": 161
+      }
+    ],
+    "phase": "before-inspect",
+    "scrollWidth": 1280,
+    "width": 1280
+  },
+  {
+    "cards": [
+      {
+        "right": 283,
+        "text": "0",
+        "x": 37,
+        "y": 114.890625
+      },
+      {
+        "right": 283,
+        "text": "0",
+        "x": 37,
+        "y": 213.78125
+      },
+      {
+        "right": 283,
+        "text": "17.1%",
+        "x": 37,
+        "y": 312.671875
+      },
+      {
+        "right": 283,
+        "text": "15.94 GB",
+        "x": 37,
+        "y": 411.5625
+      }
+    ],
+    "phase": "after-empty",
+    "scrollWidth": 320,
+    "width": 320
+  },
+  {
+    "cards": [
+      {
+        "right": 353,
+        "text": "0",
+        "x": 37,
+        "y": 114.890625
+      },
+      {
+        "right": 353,
+        "text": "0",
+        "x": 37,
+        "y": 213.78125
+      },
+      {
+        "right": 353,
+        "text": "17.1%",
+        "x": 37,
+        "y": 312.671875
+      },
+      {
+        "right": 353,
+        "text": "15.94 GB",
+        "x": 37,
+        "y": 411.5625
+      }
+    ],
+    "phase": "after-empty",
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "cards": [
+      {
+        "right": 562,
+        "text": "0",
+        "x": 37,
+        "y": 114.890625
+      },
+      {
+        "right": 562,
+        "text": "0",
+        "x": 37,
+        "y": 213.78125
+      },
+      {
+        "right": 562,
+        "text": "17.1%",
+        "x": 37,
+        "y": 312.671875
+      },
+      {
+        "right": 562,
+        "text": "15.94 GB",
+        "x": 37,
+        "y": 411.5625
+      }
+    ],
+    "phase": "after-empty",
+    "scrollWidth": 599,
+    "width": 599
+  },
+  {
+    "cards": [
+      {
+        "right": 133.265625,
+        "text": "0",
+        "x": 45,
+        "y": 138.890625
+      },
+      {
+        "right": 273.84375,
+        "text": "0",
+        "x": 187.265625,
+        "y": 114.890625
+      },
+      {
+        "right": 414.421875,
+        "text": "17.1%",
+        "x": 327.84375,
+        "y": 114.890625
+      },
+      {
+        "right": 555,
+        "text": "15.94 GB",
+        "x": 468.421875,
+        "y": 114.890625
+      }
+    ],
+    "phase": "after-empty",
+    "scrollWidth": 600,
+    "width": 600
+  },
+  {
+    "cards": [
+      {
+        "right": 322,
+        "text": "0",
+        "x": 85,
+        "y": 114.890625
+      },
+      {
+        "right": 613,
+        "text": "0",
+        "x": 376,
+        "y": 114.890625
+      },
+      {
+        "right": 904,
+        "text": "17.1%",
+        "x": 667,
+        "y": 114.890625
+      },
+      {
+        "right": 1195,
+        "text": "15.94 GB",
+        "x": 958,
+        "y": 114.890625
+      }
+    ],
+    "phase": "after-empty",
+    "scrollWidth": 1280,
+    "width": 1280
+  },
+  {
+    "cards": [
+      {
+        "right": 283,
+        "text": "0",
+        "x": 37,
+        "y": 114.890625
+      },
+      {
+        "right": 283,
+        "text": "1",
+        "x": 37,
+        "y": 213.78125
+      },
+      {
+        "right": 283,
+        "text": "7.7%",
+        "x": 37,
+        "y": 312.671875
+      },
+      {
+        "right": 283,
+        "text": "15.92 GB",
+        "x": 37,
+        "y": 411.5625
+      }
+    ],
+    "phase": "after-list",
+    "scrollWidth": 320,
+    "width": 320
+  },
+  {
+    "cards": [
+      {
+        "right": 353,
+        "text": "0",
+        "x": 37,
+        "y": 114.890625
+      },
+      {
+        "right": 353,
+        "text": "1",
+        "x": 37,
+        "y": 213.78125
+      },
+      {
+        "right": 353,
+        "text": "7.7%",
+        "x": 37,
+        "y": 312.671875
+      },
+      {
+        "right": 353,
+        "text": "15.92 GB",
+        "x": 37,
+        "y": 411.5625
+      }
+    ],
+    "phase": "after-list",
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "cards": [
+      {
+        "right": 562,
+        "text": "0",
+        "x": 37,
+        "y": 114.890625
+      },
+      {
+        "right": 562,
+        "text": "1",
+        "x": 37,
+        "y": 213.78125
+      },
+      {
+        "right": 562,
+        "text": "7.7%",
+        "x": 37,
+        "y": 312.671875
+      },
+      {
+        "right": 562,
+        "text": "15.92 GB",
+        "x": 37,
+        "y": 411.5625
+      }
+    ],
+    "phase": "after-list",
+    "scrollWidth": 599,
+    "width": 599
+  },
+  {
+    "cards": [
+      {
+        "right": 133.265625,
+        "text": "0",
+        "x": 45,
+        "y": 138.890625
+      },
+      {
+        "right": 273.84375,
+        "text": "1",
+        "x": 187.265625,
+        "y": 114.890625
+      },
+      {
+        "right": 414.421875,
+        "text": "7.7%",
+        "x": 327.84375,
+        "y": 114.890625
+      },
+      {
+        "right": 555,
+        "text": "15.92 GB",
+        "x": 468.421875,
+        "y": 114.890625
+      }
+    ],
+    "phase": "after-list",
+    "scrollWidth": 600,
+    "width": 600
+  },
+  {
+    "cards": [
+      {
+        "right": 322,
+        "text": "0",
+        "x": 85,
+        "y": 114.890625
+      },
+      {
+        "right": 613,
+        "text": "1",
+        "x": 376,
+        "y": 114.890625
+      },
+      {
+        "right": 904,
+        "text": "7.7%",
+        "x": 667,
+        "y": 114.890625
+      },
+      {
+        "right": 1195,
+        "text": "15.92 GB",
+        "x": 958,
+        "y": 114.890625
+      }
+    ],
+    "phase": "after-list",
+    "scrollWidth": 1280,
+    "width": 1280
+  },
+  {
+    "actions": [
+      {
+        "right": 191.59375,
+        "text": "Broadcast",
+        "x": 63.34375,
+        "y": 99
+      },
+      {
+        "right": 304,
+        "text": "Dispose",
+        "x": 199.59375,
+        "y": 99
+      }
+    ],
+    "cards": [
+      {
+        "right": 304,
+        "text": "Room 2etaavzHf",
+        "x": 63,
+        "y": 60
+      },
+      {
+        "right": 283,
+        "text": "Unlocked",
+        "x": 37,
+        "y": 201.75
+      },
+      {
+        "right": 283,
+        "text": "0 / 4",
+        "x": 37,
+        "y": 297.75
+      },
+      {
+        "right": 283,
+        "text": "3 B",
+        "x": 37,
+        "y": 393.75
+      }
+    ],
+    "phase": "after-inspect",
+    "scrollWidth": 320,
+    "width": 320
+  },
+  {
+    "actions": [
+      {
+        "right": 261.59375,
+        "text": "Broadcast",
+        "x": 133.34375,
+        "y": 99
+      },
+      {
+        "right": 374,
+        "text": "Dispose",
+        "x": 269.59375,
+        "y": 99
+      }
+    ],
+    "cards": [
+      {
+        "right": 374,
+        "text": "Room 2etaavzHf",
+        "x": 63,
+        "y": 60
+      },
+      {
+        "right": 353,
+        "text": "Unlocked",
+        "x": 37,
+        "y": 201.75
+      },
+      {
+        "right": 353,
+        "text": "0 / 4",
+        "x": 37,
+        "y": 297.75
+      },
+      {
+        "right": 353,
+        "text": "3 B",
+        "x": 37,
+        "y": 393.75
+      }
+    ],
+    "phase": "after-inspect",
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "actions": [
+      {
+        "right": 470.59375,
+        "text": "Broadcast",
+        "x": 342.34375,
+        "y": 99
+      },
+      {
+        "right": 583,
+        "text": "Dispose",
+        "x": 478.59375,
+        "y": 99
+      }
+    ],
+    "cards": [
+      {
+        "right": 583,
+        "text": "Room 2etaavzHf",
+        "x": 63,
+        "y": 60
+      },
+      {
+        "right": 562,
+        "text": "Unlocked",
+        "x": 37,
+        "y": 201.75
+      },
+      {
+        "right": 562,
+        "text": "0 / 4",
+        "x": 37,
+        "y": 297.75
+      },
+      {
+        "right": 562,
+        "text": "3 B",
+        "x": 37,
+        "y": 393.75
+      }
+    ],
+    "phase": "after-inspect",
+    "scrollWidth": 599,
+    "width": 599
+  },
+  {
+    "actions": [
+      {
+        "right": 463.59375,
+        "text": "Broadcast",
+        "x": 335.34375,
+        "y": 57.625
+      },
+      {
+        "right": 576,
+        "text": "Dispose",
+        "x": 471.59375,
+        "y": 57.625
+      }
+    ],
+    "cards": [
+      {
+        "right": 335.34375,
+        "text": "Room 2etaavzHf",
+        "x": 63,
+        "y": 59
+      },
+      {
+        "right": 179,
+        "text": "Unlocked",
+        "x": 45,
+        "y": 161
+      },
+      {
+        "right": 367,
+        "text": "0 / 4",
+        "x": 233,
+        "y": 161
+      },
+      {
+        "right": 555,
+        "text": "3 B",
+        "x": 421,
+        "y": 161
+      }
+    ],
+    "phase": "after-inspect",
+    "scrollWidth": 600,
+    "width": 600
+  },
+  {
+    "actions": [
+      {
+        "right": 1143.59375,
+        "text": "Broadcast",
+        "x": 1015.34375,
+        "y": 57.625
+      },
+      {
+        "right": 1256,
+        "text": "Dispose",
+        "x": 1151.59375,
+        "y": 57.625
+      }
+    ],
+    "cards": [
+      {
+        "right": 1015.34375,
+        "text": "Room 2etaavzHf",
+        "x": 63,
+        "y": 59
+      },
+      {
+        "right": 419,
+        "text": "Unlocked",
+        "x": 85,
+        "y": 161
+      },
+      {
+        "right": 807,
+        "text": "0 / 4",
+        "x": 473,
+        "y": 161
+      },
+      {
+        "right": 1195,
+        "text": "3 B",
+        "x": 861,
+        "y": 161
+      }
+    ],
+    "phase": "after-inspect",
+    "scrollWidth": 1280,
+    "width": 1280
+  },
+  {
+    "phase": "after-state",
+    "scrollWidth": 320,
+    "state": "",
+    "width": 320
+  }
+]
